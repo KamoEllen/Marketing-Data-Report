@@ -92,9 +92,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4422696/
 ////
 ////
 #THREE
-![Top Surgical Procedures](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Top_Surgical_Procedures.png)
-
-
 ***Women often go for surgery again and again to meet unrealistic beauty standards. The beauty industry's promotion of cosmetic procedures and unrealistic beauty standards have contributed to women feeling more insecure about their bodies. As a result, the industry has profited from the increasing demand for cosmetic surgeries. Although body satisfaction rates have not seen significant improvements over time, the number of cosmetic surgeries continues to rise. This underscores the impact of advertising and societal pressure on women's body image.****
 
 ****
@@ -107,7 +104,6 @@ The positive correlation between body dissatisfaction and the likelihood of seek
 /////
 /////
 #FOUR
-![Body Confidence Decline](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/body_confidence_decline.png)
 
 ***
  The chart highlights the popularity of these procedures and indicates that the demand for cosmetic surgery continues to rise, emphasizing the influence of societal beauty standards and the desire for physical perfection.
@@ -120,10 +116,6 @@ The American Society of Plastic Surgeons (ASPS) reveals 2020 Annual Plastic Surg
 ////
 ////
 #FIVE
-![Health Risk](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/health_risk.png)
-
-
-
 ****
 Nine out of 10 women say they will actually not eat and risk putting their health at stake when they feel bad about their body image (Dove Global Beauty and Confidence Report)
 *****
@@ -131,9 +123,6 @@ Nine out of 10 women say they will actually not eat and risk putting their healt
 /////
 ////
 #SIX
-![Purchase Power](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/purchase_power.png)
-
-
 ****
 Approximately 7 in 10 women and girls report a decline in body confidence and increase in beauty and appearance anxiety, which they say is driven by the pressure for perfection from media and advertising’s unrealistic standard of beauty (Dove Global Beauty and Confidence Report).
 ******
