@@ -115,7 +115,57 @@ plt.show()
     </div>
 </div>
 
+#five
+import matplotlib.pyplot as plt
 
+# Define the data as percentages
+yes_percentage = 90
+no_percentage = 10
+
+# Define the labels for the pie chart
+labels = ['Yes, I have done this', 'No, I have not done this']
+
+# Define the colors for the pie chart
+colors = ['blue', 'red']
+
+# Create the pie chart
+plt.pie([yes_percentage, no_percentage], labels=labels, colors=colors, autopct='%1.1f%%')
+
+# Add a title to the chart
+plt.title('Women at Risk of Health Due to Body Image')
+
+# Show the chart
+plt.show()
+
+#Six
+<div style="display: flex;">
+    <div style="flex-basis: 50%;">
+        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/purchase_power.png" alt="Purchase Power" width="400"/>
+    </div>
+    <div style="flex-basis: 50%;">
+        <pre><code>
+        import matplotlib.pyplot as plt   
+        # Define the data as percentages
+    yes_percentage = 70
+    no_percentage = 30
+
+    # Define the labels for the pie chart
+    labels = ['Reported Decline', 'No Decline']
+
+    # Define the colors for the pie chart
+    colors = ['red', 'blue']
+
+    # Create the pie chart
+    plt.pie([yes_percentage, no_percentage], labels=labels, colors=colors, autopct='%1.1f%%')
+
+    # Add a title to the chart
+    plt.title('Women and Girls Reporting a Decline \n in Body Confidence and Increase in Appearance Anxiety')
+
+    # Show the chart
+    plt.show()
+    </code></pre>
+</div>
+</div>
 ![Cosmetic Procedures Trend](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png)
 ![Increase in Risk Associated with Douching](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png)
 ![Top Surgical Procedures](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Top_Surgical_Procedures.png)
@@ -344,6 +394,8 @@ Nine out of 10 women say they will actually not eat and risk putting their healt
 /////
 ////
 #SIX
+![Purchase Power](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/purchase_power.png)
+
 import matplotlib.pyplot as plt
 
 # Define the data as percentages
