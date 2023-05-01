@@ -1,5 +1,5 @@
 Topic: How Companies Exploit Women's Insecurities for Profit
-
+<hr>
 Contents:
 Cleaning Data
 Introduction
@@ -11,22 +11,20 @@ Alternative Marketing Strategies
 Conclusion
 Data Visualization
 Sources
-
+<hr>
 Cleaning Data:
 I broadened my search for data sources and utilized various online sources to collect data for the report. I cleaned and organized the data using Notepad and further processed and formatted it using Python3 with Pandas, NumPy, Matplotlib and Hypothesis testing. Throughout the process, I emphasized the importance of maintaining ethical standards, avoiding bias, and ensuring accuracy and reliability of research, especially when proving companies exploit women's insecurities. 
-
-
+<hr>
 Introduction: 
 Industries such as beauty, fashion, weight loss, cosmetic surgery, and fitness use women's insecurities to sell products and make profits by setting unrealistic beauty standards and promoting the idea that women need to conform to societal norms. They perpetuate the notion that there is an ideal body image that women should strive for, which leads to exploiting women's insecurities and profiting from them.As a result, women are often left feeling dissatisfied and continue to strive for unattainable beauty standards, perpetuating a cycle of insecurity and profit for these industries.
-
+<hr>
 Hypothesis:
 1.How Advertisements Prey on Women's Insecurities
 2.Exploiting Women's Insecurities to Sell Douche Products
 3.Impact on Women's Body Image and Self-Esteem
 4.Alternative Marketing Strategies
-
+<hr>
 Hypothesis and Analysis:
-
 How Advertisements Prey on Women's Insecurities:
 Advertisements for beauty products, fashion, weight loss, cosmetic surgery, and fitness often use language and images that suggest women need to improve their appearance to be accepted by society or feel confident in themselves.
 Language that reinforces insecurities around appearance includes terms like "flawless," "perfect," "ideal," and "thin."
@@ -51,9 +49,10 @@ Alternative marketing strategies could focus on promoting diversity and inclusiv
 Brands could also promote the health benefits of their products rather than solely focusing on appearance-related benefits.
 Using real people with diverse body types and appearances in advertisements could also promote positive body image and self-esteem.
 However, societal beauty standards have been deeply ingrained, making it difficult to shift consumer attitudes and behaviors overnight.
-
-Conclusion: The advertising and marketing strategies used by industries such as beauty, fashion, weight loss, cosmetic surgery, and fitness exploit women's insecurities for profit, perpetuate harmful stereotypes, and contribute to negative body image and low self-esteem. Alternative marketing strategies that promote diversity, inclusivity, and self-acceptance could help promote positive body image and self-esteem, but changing consumer attitudes and behaviors requires a shift away from deeply ingrained societal beauty standards.
-
+<hr>
+Conclusion:
+The advertising and marketing strategies used by industries such as beauty, fashion, weight loss, cosmetic surgery, and fitness exploit women's insecurities for profit, perpetuate harmful stereotypes, and contribute to negative body image and low self-esteem. Alternative marketing strategies that promote diversity, inclusivity, and self-acceptance could help promote positive body image and self-esteem, but changing consumer attitudes and behaviors requires a shift away from deeply ingrained societal beauty standards.
+<hr>
 
 #ONE
 
