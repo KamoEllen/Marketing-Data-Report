@@ -4,6 +4,7 @@
 ![Cosmetic Procedures Trend](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png)
 ![Increase in Risk Associated with Douching](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png)
 ![Top Surgical Procedures](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Top_Surgical_Procedures.png)
+![Body Confidence Decline](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/body_confidence_decline.png)
 
 
 
