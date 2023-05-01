@@ -118,23 +118,12 @@ plt.show()
     <div style="flex-basis: 50%;">
         <pre><code>
         import matplotlib.pyplot as plt   
-        # Define the data as percentages
     yes_percentage = 70
     no_percentage = 30
-
-    # Define the labels for the pie chart
     labels = ['Reported Decline', 'No Decline']
-
-    # Define the colors for the pie chart
     colors = ['red', 'blue']
-
-    # Create the pie chart
     plt.pie([yes_percentage, no_percentage], labels=labels, colors=colors, autopct='%1.1f%%')
-
-    # Add a title to the chart
     plt.title('Women and Girls Reporting a Decline \n in Body Confidence and Increase in Appearance Anxiety')
-
-    # Show the chart
     plt.show()
     </code></pre>
 </div>
