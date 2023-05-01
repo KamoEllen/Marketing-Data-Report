@@ -188,7 +188,7 @@ plt.show()
     </div>
 </div>
 <hr>
-#Six
+
 Approximately 7 in 10 women and girls report a decline in body confidence and increase in beauty and appearance anxiety, which they say is driven by the pressure for perfection from media and advertising’s unrealistic standard of beauty (Dove Global Beauty and Confidence Report).)  
 <div style="display: flex;">
     <div style="flex-basis: 50%;">
