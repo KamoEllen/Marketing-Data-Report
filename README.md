@@ -93,24 +93,12 @@ plt.show()
 
 #five
 import matplotlib.pyplot as plt
-
-# Define the data as percentages
 yes_percentage = 90
 no_percentage = 10
-
-# Define the labels for the pie chart
 labels = ['Yes, I have done this', 'No, I have not done this']
-
-# Define the colors for the pie chart
 colors = ['blue', 'red']
-
-# Create the pie chart
 plt.pie([yes_percentage, no_percentage], labels=labels, colors=colors, autopct='%1.1f%%')
-
-# Add a title to the chart
 plt.title('Women at Risk of Health Due to Body Image')
-
-# Show the chart
 plt.show()
 
 #Six
