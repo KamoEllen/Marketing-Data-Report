@@ -93,9 +93,11 @@ plt.show()
 
 #five
 <div style="display: flex;">
-    <div style="flex-basis: 50%;">
+    <div style="flex-basis: 80%;">
         <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/health_risk.png" alt="Health Risk width="400"/>
     </div>
+    <div style="flex-basis: 50%;">
+        <pre><code>
 import matplotlib.pyplot as plt
 yes_percentage = 90
 no_percentage = 10
@@ -104,6 +106,9 @@ colors = ['blue', 'red']
 plt.pie([yes_percentage, no_percentage], labels=labels, colors=colors, autopct='%1.1f%%')
 plt.title('Women at Risk of Health Due to Body Image')
 plt.show()
+ </code></pre>
+    </div>
+</div>
 
 #Six
 <div style="display: flex;">
