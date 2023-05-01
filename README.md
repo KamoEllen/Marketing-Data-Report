@@ -214,9 +214,12 @@ Sources:
 
 Dove Global Beauty and Confidence Report
 The American Society of Plastic Surgeons (ASPS) 2020 Annual Plastic Surgery Statistics Report
-U.S. Department of Health & Human Services (https://www.womenshealth.gov/a-z-topics/douching)
-American Society of Plastic Surgeons (ASPS) for total number of cosmetic procedures performed in the United States (https://www.plasticsurgery.org/news/press-releases/new-statistics-reveal-the-shape-of-plastic-surgery)
-University of Central Florida survey on college students' body dissatisfaction (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3447047/)
+U.S. Department of Health & Human Services 
+(https://www.womenshealth.gov/a-z-topics/douching)
+American Society of Plastic Surgeons (ASPS) for total number of cosmetic procedures performed in the United States 
+(https://www.plasticsurgery.org/news/press-releases/new-statistics-reveal-the-shape-of-plastic-surgery)
+University of Central Florida survey on college students' body dissatisfaction 
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3447047/)
 Aesthetic Surgery Journal study on positive correlation between body dissatisfaction and likelihood of seeking cosmetic surgery (https://academic.oup.com/asj/article/29/4/345/191362)
 National Eating Disorders Association (NEDA) and MarketResearch.com for the United States survey
 Mental Health Foundation and The Guardian for the United Kingdom survey
