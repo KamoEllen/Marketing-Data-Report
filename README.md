@@ -31,10 +31,15 @@ Introduction:
 Industries such as beauty, fashion, weight loss, cosmetic surgery, and fitness use women's insecurities to sell products and make profits by setting unrealistic beauty standards and promoting the idea that women need to conform to societal norms. They perpetuate the notion that there is an ideal body image that women should strive for, which leads to exploiting women's insecurities and profiting from them.As a result, women are often left feeling dissatisfied and continue to strive for unattainable beauty standards, perpetuating a cycle of insecurity and profit for these industries.
 <hr>
 Hypothesis:
+
 1.How Advertisements Prey on Women's Insecurities
+
 2.Exploiting Women's Insecurities to Sell Douche Products
+
 3.Impact on Women's Body Image and Self-Esteem
+
 4.Alternative Marketing Strategies
+
 <hr>
 Hypothesis and Analysis:
 How Advertisements Prey on Women's Insecurities:
