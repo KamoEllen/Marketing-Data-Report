@@ -8,7 +8,6 @@
 ![Health Risk](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/health_risk.png)
 
 
-
 Topic: How Companies Exploit Women's Insecurities for Profit
 
 Contents:
