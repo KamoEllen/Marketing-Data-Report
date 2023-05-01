@@ -61,6 +61,37 @@ plt.show()
     </div>
 </div>
 
+#three
+<div style="display: flex;">
+    <div style="flex-basis: 50%;">
+        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Top_Surgical_Procedures.png" alt="Top Surgical Procedures" width="400"/>
+    </div>
+    <div style="flex-basis: 50%;">
+        <pre><code>
+import matplotlib.pyplot as plt
+
+# Data for line chart
+years = [2000, 2019]
+cosmetic_procedures = [7.4, 18.4]
+body_image_dissatisfaction = [23, 32]
+
+# Plot line chart
+plt.plot(years, cosmetic_procedures, label='Cosmetic Procedures')
+plt.plot(years, body_image_dissatisfaction, label='Body Image Dissatisfaction')
+
+# Add labels and title
+plt.xlabel('Year')
+plt.ylabel('Number/Percentage')
+plt.title('Cosmetic Procedures and Body Image Dissatisfaction over Time')
+
+# Add legend
+plt.legend()
+
+# Show plot
+plt.show()
+        </code></pre>
+    </div>
+</div>
 
 
 ![Cosmetic Procedures Trend](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png)
@@ -199,6 +230,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4422696/
 ////
 ////
 #THREE
+![Top Surgical Procedures](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Top_Surgical_Procedures.png)
+
 import matplotlib.pyplot as plt
 
 # Data for line chart
