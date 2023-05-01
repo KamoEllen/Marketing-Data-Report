@@ -1,6 +1,6 @@
 #i will complete this.
 #save the python code and organise this repo.
-
+<html>
 <div style="display:flex">
     <div style="flex:1">
         <p>import matplotlib.pyplot as plt</p>
@@ -21,7 +21,7 @@
         <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png" alt="Cosmetic Procedures Trend">
     </div>
 </div>
-
+</html>
 
 ![Cosmetic Procedures Trend](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png)
 ![Increase in Risk Associated with Douching](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png)
