@@ -1,6 +1,28 @@
 #i will complete this.
 #save the python code and organise this repo.
 
+<div style="display:flex">
+    <div style="flex:1">
+        <p>import matplotlib.pyplot as plt</p>
+        <p># Data for line graph</p>
+        <p>countries = ['United States', 'United Kingdom', 'Canada', 'Australia', 'Japan']</p>
+        <p>industry_worth = [72, 2, 7, 1.8, 4.5]</p>
+        <p>percent_women = [62, 50, 69, 75, 27.4]</p>
+        <p># Plotting the line graph</p>
+        <p>plt.plot(countries, industry_worth, label='Industry Worth ($ billions)')</p>
+        <p>plt.plot(countries, percent_women, label='% of Women Feeling Insecure')</p>
+        <p>plt.xlabel('Country')</p>
+        <p>plt.ylabel('Amount')</p>
+        <p>plt.title('Purchasing Power of Products Exploiting Women Insecurities')</p>
+        <p>plt.legend()</p>
+        <p>plt.show()</p>
+    </div>
+    <div style="flex:1">
+        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png" alt="Cosmetic Procedures Trend">
+    </div>
+</div>
+
+
 ![Cosmetic Procedures Trend](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png)
 ![Increase in Risk Associated with Douching](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png)
 ![Top Surgical Procedures](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Top_Surgical_Procedures.png)
@@ -72,6 +94,7 @@ Conclusion: The advertising and marketing strategies used by industries such as 
 
 
 #ONE
+![Cosmetic Procedures Trend](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png)
 import matplotlib.pyplot as plt
 
 # Data for line graph
