@@ -6,28 +6,23 @@
     <div style="flex-basis: 50%;">
         <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png" alt="Increase in Risk Associated with Douching" width="400"/>
     </div>
-    <div style="flex-basis: 50%;">
+    <div style="flex-basis: 70%;">
         <pre><code>
 import matplotlib.pyplot as plt
 import numpy as np
-
 # Define the health effects and their corresponding percentage increase in risk associated with douching
 health_effects = ['Ectopic Pregnancy', 'Chlamydia', 'Gonorrhea', 'Cervical Cancer', 'Irregular Periods', 'Low Birth Weight', 'Preterm Birth', 'Difficulty Getting Pregnant']
 risk_percentages = [76, 30, 20, 44, 25, 30, 25, 12]
-
 # Set up the bar chart
 fig, ax = plt.subplots(figsize=(10, 6))
 ax.bar(health_effects, risk_percentages)
-
 # Set the title and axis labels
 ax.set_title('Negative Health Effects Associated with Douching: Risks and Percentages')
 ax.set_xlabel('Health Effects')
 ax.set_ylabel('Percentage Increase in Risk Associated with Douching')
-
 # Add percentages to each bar
 for i, v in enumerate(risk_percentages):
     ax.text(i, v+1, str(v)+'%', ha='center')
-
 # Show the plot
 plt.show()
         </code></pre>
