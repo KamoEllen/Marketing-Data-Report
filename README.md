@@ -1,6 +1,10 @@
 #i will complete this.
 #save the python code and organise this repo.
 
+![Cosmetic Procedures Trend](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png)
+
+
+
 Topic: How Companies Exploit Women's Insecurities for Profit
 
 Contents:
