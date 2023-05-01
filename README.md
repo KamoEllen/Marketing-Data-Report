@@ -1,135 +1,6 @@
 #i will complete this.
 #save the python code and organise this repo.
 
-#one
-<div style="display: flex;">
-    <div style="flex-basis: 80%;">
-        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png" alt="Increase in Risk Associated with Douching" width="400"/>
-    </div>
-    <div style="flex-basis: 30%;">
-        <pre><code>
-import matplotlib.pyplot as plt
-import numpy as np
-health_effects = ['Ectopic Pregnancy', 'Chlamydia', 'Gonorrhea', 'Cervical Cancer', 'Irregular Periods', 'Low Birth Weight', 'Preterm Birth', 'Difficulty Getting Pregnant']
-risk_percentages = [76, 30, 20, 44, 25, 30, 25, 12]
-fig, ax = plt.subplots(figsize=(10, 6))
-ax.bar(health_effects, risk_percentages)
-ax.set_title('Negative Health Effects Associated with Douching: Risks and Percentages')
-ax.set_xlabel('Health Effects')
-ax.set_ylabel('Percentage Increase in Risk Associated with Douching')
-for i, v in enumerate(risk_percentages):
-    ax.text(i, v+1, str(v)+'%', ha='center')
-plt.show()
-        </code></pre>
-    </div>
-</div>
-
-
-#two
-<div style="display: flex;">
-    <div style="flex-basis: 50%;">
-        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png" alt="Cosmetic Procedures Trend" width="400"/>
-    </div>
-    <div style="flex-basis: 50%;">
-        <pre><code>
-import matplotlib.pyplot as plt
-countries = ['United States', 'United Kingdom', 'Canada', 'Australia', 'Japan']
-industry_worth = [72, 2, 7, 1.8, 4.5]
-percent_women = [62, 50, 69, 75, 27.4]
-plt.plot(countries, industry_worth, label='Industry Worth ($ billions)')
-plt.plot(countries, percent_women, label='% of Women Feeling Insecure')
-plt.xlabel('Country')
-plt.ylabel('Amount')
-plt.title('Purchasing Power of Products Exploiting Women Insecurities')
-plt.legend()
-plt.show()
-        </code></pre>
-    </div>
-</div>
-
-#three
-<div style="display: flex;">
-    <div style="flex-basis: 50%;">
-        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Top_Surgical_Procedures.png" alt="Top Surgical Procedures" width="400"/>
-    </div>
-    <div style="flex-basis: 50%;">
-        <pre><code>
-import matplotlib.pyplot as plt
-years = [2000, 2019]
-cosmetic_procedures = [7.4, 18.4]
-body_image_dissatisfaction = [23, 32]
-plt.plot(years, cosmetic_procedures, label='Cosmetic Procedures')
-plt.plot(years, body_image_dissatisfaction, label='Body Image Dissatisfaction')
-plt.xlabel('Year')
-plt.ylabel('Number/Percentage')
-plt.title('Cosmetic Procedures and Body Image Dissatisfaction over Time')
-plt.legend()
-plt.show()
-        </code></pre>
-    </div>
-</div>
-
-#four
-<div style="display: flex;">
-    <div style="flex-basis: 50%;">
-        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/body_confidence_decline.png" alt="Body Confidence Decline" width="400"/>
-    </div>
-    <div style="flex-basis: 50%;">
-        <pre><code>
-        import matplotlib.pyplot as plt
-
-        procedures = ['Nose Reshaping', 'Eyelid Surgery', 'Facelift', 'Liposuction', 'Breast Augmentation']
-        counts = [352555, 325112, 234374, 211067, 193073]
-
-        plt.bar(procedures, counts, color='purple')
-        plt.title('2020 Top 5 Cosmetic Surgical Procedures')
-        plt.ylabel('Procedure Count')
-        plt.xlabel('Procedure')
-
-        plt.show()
-        </code></pre>
-    </div>
-</div>
-
-#five
-<div style="display: flex;">
-    <div style="flex-basis: 50%;">
-        <img src="https://github.com/KamoEllen/Marketing-Data-Report/blob/main/health_risk.png" alt="Health Risk" width="400">
-    </div>
-    <div style="flex-basis: 50%;">
-        <pre><code>
-import matplotlib.pyplot as plt
-yes_percentage = 90
-no_percentage = 10
-labels = ['Yes, I have done this', 'No, I have not done this']
-colors = ['blue', 'red']
-plt.pie([yes_percentage, no_percentage], labels=labels, colors=colors, autopct='%1.1f%%')
-plt.title('Women at Risk of Health Due to Body Image')
-plt.show()
-        </code></pre>
-    </div>
-</div>
-
-#Six
-<div style="display: flex;">
-    <div style="flex-basis: 50%;">
-        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/purchase_power.png" alt="Purchase Power" width="400"/>
-    </div>
-    <div style="flex-basis: 50%;">
-        <pre><code>
-        import matplotlib.pyplot as plt   
-    yes_percentage = 70
-    no_percentage = 30
-    labels = ['Reported Decline', 'No Decline']
-    colors = ['red', 'blue']
-    plt.pie([yes_percentage, no_percentage], labels=labels, colors=colors, autopct='%1.1f%%')
-    plt.title('Women and Girls Reporting a Decline \n in Body Confidence and Increase in Appearance Anxiety')
-    plt.show()
-    </code></pre>
-</div>
-</div>
-
-
 ![Cosmetic Procedures Trend](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png)
 ![Increase in Risk Associated with Douching](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png)
 ![Top Surgical Procedures](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Top_Surgical_Procedures.png)
@@ -398,3 +269,135 @@ Mental Health Foundation and The Guardian for the United Kingdom survey
 Flare Magazine and CBC News for the Canada survey
 Butterfly Foundation and SBS News for the Australia survey
 Ministry of Health, Labour, and Welfare and Japan Today for the Japan survey
+
+
+<hr>
+#one
+<div style="display: flex;">
+    <div style="flex-basis: 80%;">
+        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png" alt="Increase in Risk Associated with Douching" width="400"/>
+    </div>
+    <div style="flex-basis: 30%;">
+        <pre><code>
+import matplotlib.pyplot as plt
+import numpy as np
+health_effects = ['Ectopic Pregnancy', 'Chlamydia', 'Gonorrhea', 'Cervical Cancer', 'Irregular Periods', 'Low Birth Weight', 'Preterm Birth', 'Difficulty Getting Pregnant']
+risk_percentages = [76, 30, 20, 44, 25, 30, 25, 12]
+fig, ax = plt.subplots(figsize=(10, 6))
+ax.bar(health_effects, risk_percentages)
+ax.set_title('Negative Health Effects Associated with Douching: Risks and Percentages')
+ax.set_xlabel('Health Effects')
+ax.set_ylabel('Percentage Increase in Risk Associated with Douching')
+for i, v in enumerate(risk_percentages):
+    ax.text(i, v+1, str(v)+'%', ha='center')
+plt.show()
+        </code></pre>
+    </div>
+</div>
+
+<hr>
+#two
+<div style="display: flex;">
+    <div style="flex-basis: 50%;">
+        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png" alt="Cosmetic Procedures Trend" width="400"/>
+    </div>
+    <div style="flex-basis: 50%;">
+        <pre><code>
+import matplotlib.pyplot as plt
+countries = ['United States', 'United Kingdom', 'Canada', 'Australia', 'Japan']
+industry_worth = [72, 2, 7, 1.8, 4.5]
+percent_women = [62, 50, 69, 75, 27.4]
+plt.plot(countries, industry_worth, label='Industry Worth ($ billions)')
+plt.plot(countries, percent_women, label='% of Women Feeling Insecure')
+plt.xlabel('Country')
+plt.ylabel('Amount')
+plt.title('Purchasing Power of Products Exploiting Women Insecurities')
+plt.legend()
+plt.show()
+        </code></pre>
+    </div>
+</div>
+<hr>
+#three
+<div style="display: flex;">
+    <div style="flex-basis: 50%;">
+        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Top_Surgical_Procedures.png" alt="Top Surgical Procedures" width="400"/>
+    </div>
+    <div style="flex-basis: 50%;">
+        <pre><code>
+import matplotlib.pyplot as plt
+years = [2000, 2019]
+cosmetic_procedures = [7.4, 18.4]
+body_image_dissatisfaction = [23, 32]
+plt.plot(years, cosmetic_procedures, label='Cosmetic Procedures')
+plt.plot(years, body_image_dissatisfaction, label='Body Image Dissatisfaction')
+plt.xlabel('Year')
+plt.ylabel('Number/Percentage')
+plt.title('Cosmetic Procedures and Body Image Dissatisfaction over Time')
+plt.legend()
+plt.show()
+        </code></pre>
+    </div>
+</div>
+<hr>
+#four
+<div style="display: flex;">
+    <div style="flex-basis: 50%;">
+        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/body_confidence_decline.png" alt="Body Confidence Decline" width="400"/>
+    </div>
+    <div style="flex-basis: 50%;">
+        <pre><code>
+        import matplotlib.pyplot as plt
+
+        procedures = ['Nose Reshaping', 'Eyelid Surgery', 'Facelift', 'Liposuction', 'Breast Augmentation']
+        counts = [352555, 325112, 234374, 211067, 193073]
+
+        plt.bar(procedures, counts, color='purple')
+        plt.title('2020 Top 5 Cosmetic Surgical Procedures')
+        plt.ylabel('Procedure Count')
+        plt.xlabel('Procedure')
+
+        plt.show()
+        </code></pre>
+    </div>
+</div>
+<hr>
+#five
+<div style="display: flex;">
+    <div style="flex-basis: 50%;">
+        <img src="https://github.com/KamoEllen/Marketing-Data-Report/blob/main/health_risk.png" alt="Health Risk" width="400">
+    </div>
+    <div style="flex-basis: 50%;">
+        <pre><code>
+import matplotlib.pyplot as plt
+yes_percentage = 90
+no_percentage = 10
+labels = ['Yes, I have done this', 'No, I have not done this']
+colors = ['blue', 'red']
+plt.pie([yes_percentage, no_percentage], labels=labels, colors=colors, autopct='%1.1f%%')
+plt.title('Women at Risk of Health Due to Body Image')
+plt.show()
+        </code></pre>
+    </div>
+</div>
+<hr>
+#Six
+<div style="display: flex;">
+    <div style="flex-basis: 50%;">
+        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/purchase_power.png" alt="Purchase Power" width="400"/>
+    </div>
+    <div style="flex-basis: 50%;">
+        <pre><code>
+        import matplotlib.pyplot as plt   
+    yes_percentage = 70
+    no_percentage = 30
+    labels = ['Reported Decline', 'No Decline']
+    colors = ['red', 'blue']
+    plt.pie([yes_percentage, no_percentage], labels=labels, colors=colors, autopct='%1.1f%%')
+    plt.title('Women and Girls Reporting a Decline \n in Body Confidence and Increase in Appearance Anxiety')
+    plt.show()
+    </code></pre>
+</div>
+</div>
+
+add conclusion to this :Approximately 7 in 10 women and girls report a decline in body confidence and increase in beauty and appearance anxiety, which they say is driven by the pressure for perfection from media and advertising’s unrealistic standard of beauty (Dove Global Beauty and Confidence Report).
