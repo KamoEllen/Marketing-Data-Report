@@ -2,7 +2,7 @@
 #save the python code and organise this repo.
 
 ![Cosmetic Procedures Trend](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png)
-
+![Increase in Risk Associated with Douching](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png)
 
 
 Topic: How Companies Exploit Women's Insecurities for Profit
