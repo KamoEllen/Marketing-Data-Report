@@ -125,7 +125,7 @@ plt.show()
     </div>
 </div>
 <hr>
-#three
+The number of cosmetic surgeries continues to rise because the beauty industry promotes cosmetic procedures and unrealistic beauty standards, which contribute to women feeling more insecure about their bodies. This results in an increasing demand for cosmetic surgeries, leading to the industry profiting from it. Despite the lack of significant improvements in body satisfaction rates, the impact of advertising and societal pressure on women's body image remains strong.
 <div style="display: flex;">
     <div style="flex-basis: 50%;">
         <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Top_Surgical_Procedures.png" alt="Top Surgical Procedures" width="400"/>
