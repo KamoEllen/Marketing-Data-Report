@@ -266,6 +266,8 @@ The positive correlation between body dissatisfaction and the likelihood of seek
 /////
 /////
 #FOUR
+![Body Confidence Decline](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/body_confidence_decline.png)
+
 import matplotlib.pyplot as plt
 
 procedures = ['Nose Reshaping', 'Eyelid Surgery', 'Facelift', 'Liposuction', 'Breast Augmentation']
