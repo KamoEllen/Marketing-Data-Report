@@ -189,6 +189,7 @@ plt.show()
 </div>
 <hr>
 #Six
+Approximately 7 in 10 women and girls report a decline in body confidence and increase in beauty and appearance anxiety, which they say is driven by the pressure for perfection from media and advertising’s unrealistic standard of beauty (Dove Global Beauty and Confidence Report).)  
 <div style="display: flex;">
     <div style="flex-basis: 50%;">
         <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/purchase_power.png" alt="Purchase Power" width="400"/>
@@ -206,9 +207,6 @@ plt.show()
     </code></pre>
 </div>
 </div>
-
-add conclusion to this :Approximately 7 in 10 women and girls report a decline in body confidence and increase in beauty and appearance anxiety, which they say is driven by the pressure for perfection from media and advertising’s unrealistic standard of beauty (Dove Global Beauty and Confidence Report).
-#(as title maybe ?) focus on other stuff.come back after.
 
 <hr>
 
