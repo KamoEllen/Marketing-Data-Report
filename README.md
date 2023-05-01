@@ -93,6 +93,28 @@ plt.show()
     </div>
 </div>
 
+#four
+<div style="display: flex;">
+    <div style="flex-basis: 50%;">
+        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/body_confidence_decline.png" alt="Body Confidence Decline" width="400"/>
+    </div>
+    <div style="flex-basis: 50%;">
+        <pre><code>
+        import matplotlib.pyplot as plt
+
+        procedures = ['Nose Reshaping', 'Eyelid Surgery', 'Facelift', 'Liposuction', 'Breast Augmentation']
+        counts = [352555, 325112, 234374, 211067, 193073]
+
+        plt.bar(procedures, counts, color='purple')
+        plt.title('2020 Top 5 Cosmetic Surgical Procedures')
+        plt.ylabel('Procedure Count')
+        plt.xlabel('Procedure')
+
+        plt.show()
+        </code></pre>
+    </div>
+</div>
+
 
 ![Cosmetic Procedures Trend](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png)
 ![Increase in Risk Associated with Douching](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png)
@@ -291,6 +313,8 @@ The American Society of Plastic Surgeons (ASPS) reveals 2020 Annual Plastic Surg
 ////
 ////
 #FIVE
+![Health Risk](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/health_risk.png)
+
 import matplotlib.pyplot as plt
 
 # Define the data as percentages
