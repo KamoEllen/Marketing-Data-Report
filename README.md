@@ -65,22 +65,7 @@ Conclusion: The advertising and marketing strategies used by industries such as 
 
 
 #ONE
-![Cosmetic Procedures Trend](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png)
-import matplotlib.pyplot as plt
 
-# Data for line graph
-countries = ['United States', 'United Kingdom', 'Canada', 'Australia', 'Japan']
-industry_worth = [72, 2, 7, 1.8, 4.5]
-percent_women = [62, 50, 69, 75, 27.4]
-
-# Plotting the line graph
-plt.plot(countries, industry_worth, label='Industry Worth ($ billions)')
-plt.plot(countries, percent_women, label='% of Women Feeling Insecure')
-plt.xlabel('Country')
-plt.ylabel('Amount')
-plt.title('Purchasing Power of Products Exploiting Women Insecurities')
-plt.legend()
-plt.show()
 
 *****
 The graph shows that the weight loss industry is worth billions of dollars in each of the five countries, indicating that there is significant profit to be made from selling products that exploit women's insecurities. Additionally, the graph shows that a significant percentage of women in each country report feeling insecure about their bodies, indicating that there is a large potential market for these products. Overall, the graph provides evidence to support the idea that companies are exploiting women's insecurities for profit.
@@ -94,29 +79,6 @@ Ministry of Health, Labour, and Welfare and Japan Today for the Japan survey.
 *****
 ///
 #TWO
-![Increase in Risk Associated with Douching](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png)
-import matplotlib.pyplot as plt
-import numpy as np
-
-# Define the health effects and their corresponding percentage increase in risk associated with douching
-health_effects = ['Ectopic Pregnancy', 'Chlamydia', 'Gonorrhea', 'Cervical Cancer', 'Irregular Periods', 'Low Birth Weight', 'Preterm Birth', 'Difficulty Getting Pregnant']
-risk_percentages = [76, 30, 20, 44, 25, 30, 25, 12]
-
-# Set up the bar chart
-fig, ax = plt.subplots(figsize=(10, 6))
-ax.bar(health_effects, risk_percentages)
-
-# Set the title and axis labels
-ax.set_title('Negative Health Effects Associated with Douching: Risks and Percentages')
-ax.set_xlabel('Health Effects')
-ax.set_ylabel('Percentage Increase in Risk Associated with Douching')
-
-# Add percentages to each bar
-for i, v in enumerate(risk_percentages):
-    ax.text(i, v+1, str(v)+'%', ha='center')
-
-# Show the plot
-plt.show()
 
 *****
 douching is associated with several negative health effects, as shown by the percentage increase in risk associated with each health effect. The bar chart clearly displays the risks and percentages for each health effect, highlighting the importance of avoiding douching to maintain good reproductive and overall health.
@@ -132,27 +94,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4422696/
 #THREE
 ![Top Surgical Procedures](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Top_Surgical_Procedures.png)
 
-import matplotlib.pyplot as plt
-
-# Data for line chart
-years = [2000, 2019]
-cosmetic_procedures = [7.4, 18.4]
-body_image_dissatisfaction = [23, 32]
-
-# Plot line chart
-plt.plot(years, cosmetic_procedures, label='Cosmetic Procedures')
-plt.plot(years, body_image_dissatisfaction, label='Body Image Dissatisfaction')
-
-# Add labels and title
-plt.xlabel('Year')
-plt.ylabel('Number/Percentage')
-plt.title('Cosmetic Procedures and Body Image Dissatisfaction over Time')
-
-# Add legend
-plt.legend()
-
-# Show plot
-plt.show()
 
 ***Women often go for surgery again and again to meet unrealistic beauty standards. The beauty industry's promotion of cosmetic procedures and unrealistic beauty standards have contributed to women feeling more insecure about their bodies. As a result, the industry has profited from the increasing demand for cosmetic surgeries. Although body satisfaction rates have not seen significant improvements over time, the number of cosmetic surgeries continues to rise. This underscores the impact of advertising and societal pressure on women's body image.****
 
@@ -168,18 +109,6 @@ The positive correlation between body dissatisfaction and the likelihood of seek
 #FOUR
 ![Body Confidence Decline](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/body_confidence_decline.png)
 
-import matplotlib.pyplot as plt
-
-procedures = ['Nose Reshaping', 'Eyelid Surgery', 'Facelift', 'Liposuction', 'Breast Augmentation']
-counts = [352555, 325112, 234374, 211067, 193073]
-
-plt.bar(procedures, counts, color='purple')
-plt.title('2020 Top 5 Cosmetic Surgical Procedures')
-plt.ylabel('Procedure Count')
-plt.xlabel('Procedure')
-
-plt.show()
-
 ***
  The chart highlights the popularity of these procedures and indicates that the demand for cosmetic surgery continues to rise, emphasizing the influence of societal beauty standards and the desire for physical perfection.
  
@@ -193,27 +122,7 @@ The American Society of Plastic Surgeons (ASPS) reveals 2020 Annual Plastic Surg
 #FIVE
 ![Health Risk](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/health_risk.png)
 
-import matplotlib.pyplot as plt
 
-# Define the data as percentages
-yes_percentage = 90
-no_percentage = 10
-
-# Define the labels for the pie chart
-labels = ['Yes, I have done this', 'No, I have not done this']
-
-# Define the colors for the pie chart
-colors = ['blue', 'red']
-
-# Create the pie chart
-plt.pie([yes_percentage, no_percentage], labels=labels, colors=colors, autopct='%1.1f%%')
-
-# Add a title to the chart
-plt.title('Women at Risk of Health Due to Body Image')
-
-
-# Show the chart
-plt.show()
 
 ****
 Nine out of 10 women say they will actually not eat and risk putting their health at stake when they feel bad about their body image (Dove Global Beauty and Confidence Report)
@@ -224,26 +133,6 @@ Nine out of 10 women say they will actually not eat and risk putting their healt
 #SIX
 ![Purchase Power](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/purchase_power.png)
 
-import matplotlib.pyplot as plt
-
-# Define the data as percentages
-yes_percentage = 70
-no_percentage = 30
-
-# Define the labels for the pie chart
-labels = ['Reported Decline', 'No Decline']
-
-# Define the colors for the pie chart
-colors = ['red', 'blue']
-
-# Create the pie chart
-plt.pie([yes_percentage, no_percentage], labels=labels, colors=colors, autopct='%1.1f%%')
-
-# Add a title to the chart
-plt.title('Women and Girls Reporting a Decline \n in Body Confidence and Increase in Appearance Anxiety')
-
-# Show the chart
-plt.show()
 
 ****
 Approximately 7 in 10 women and girls report a decline in body confidence and increase in beauty and appearance anxiety, which they say is driven by the pressure for perfection from media and advertising’s unrealistic standard of beauty (Dove Global Beauty and Confidence Report).
