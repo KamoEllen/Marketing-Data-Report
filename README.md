@@ -28,6 +28,33 @@ plt.show()
 
 
 
+<div style="display: flex;">
+    <div style="flex-basis: 50%;">
+        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png" alt="Cosmetic Procedures Trend" width="400"/>
+    </div>
+    <div style="flex-basis: 50%;">
+        <pre><code>
+import matplotlib.pyplot as plt
+
+# Data for line graph
+countries = ['United States', 'United Kingdom', 'Canada', 'Australia', 'Japan']
+industry_worth = [72, 2, 7, 1.8, 4.5]
+percent_women = [62, 50, 69, 75, 27.4]
+
+# Plotting the line graph
+plt.plot(countries, industry_worth, label='Industry Worth ($ billions)')
+plt.plot(countries, percent_women, label='% of Women Feeling Insecure')
+plt.xlabel('Country')
+plt.ylabel('Amount')
+plt.title('Purchasing Power of Products Exploiting Women Insecurities')
+plt.legend()
+plt.show()
+        </code></pre>
+    </div>
+</div>
+
+
+
 ![Cosmetic Procedures Trend](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png)
 ![Increase in Risk Associated with Douching](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png)
 ![Top Surgical Procedures](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Top_Surgical_Procedures.png)
