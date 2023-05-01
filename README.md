@@ -79,7 +79,7 @@ The advertising and marketing strategies used by industries such as beauty, fash
 <hr>
 
 <hr>
-#one
+The graph illustrates that the weight loss industry is worth billions of dollars in five different countries, indicating that companies are profiting from women's insecurities. A significant percentage of women in each country report feeling insecure about their bodies, suggesting a large potential market for these products. The data sources for the graph are various surveys conducted by organizations and media outlets in each country.
 <div style="display: flex;">
     <div style="flex-basis: 80%;">
         <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png" alt="Increase in Risk Associated with Douching" width="400"/>
