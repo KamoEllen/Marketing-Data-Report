@@ -6,7 +6,7 @@
 ![Top Surgical Procedures](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Top_Surgical_Procedures.png)
 ![Body Confidence Decline](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/body_confidence_decline.png)
 ![Health Risk](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/health_risk.png)
-
+![Purchase Power](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/purchase_power.png)
 
 Topic: How Companies Exploit Women's Insecurities for Profit
 
