@@ -77,7 +77,7 @@ Conclusion:
 
 The advertising and marketing strategies used by industries such as beauty, fashion, weight loss, cosmetic surgery, and fitness exploit women's insecurities for profit, perpetuate harmful stereotypes, and contribute to negative body image and low self-esteem. Alternative marketing strategies that promote diversity, inclusivity, and self-acceptance could help promote positive body image and self-esteem, but changing consumer attitudes and behaviors requires a shift away from deeply ingrained societal beauty standards.
 <hr>
-
+Data Visualization
 <hr>
 The graph illustrates that the weight loss industry is worth billions of dollars in five different countries, indicating that companies are profiting from women's insecurities. A significant percentage of women in each country report feeling insecure about their bodies, suggesting a large potential market for these products. The data sources for the graph are various surveys conducted by organizations and media outlets in each country.
 <div style="display: flex;">
