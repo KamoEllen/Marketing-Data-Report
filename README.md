@@ -55,25 +55,15 @@ plt.show()
     <div style="flex-basis: 50%;">
         <pre><code>
 import matplotlib.pyplot as plt
-
-# Data for line chart
 years = [2000, 2019]
 cosmetic_procedures = [7.4, 18.4]
 body_image_dissatisfaction = [23, 32]
-
-# Plot line chart
 plt.plot(years, cosmetic_procedures, label='Cosmetic Procedures')
 plt.plot(years, body_image_dissatisfaction, label='Body Image Dissatisfaction')
-
-# Add labels and title
 plt.xlabel('Year')
 plt.ylabel('Number/Percentage')
 plt.title('Cosmetic Procedures and Body Image Dissatisfaction over Time')
-
-# Add legend
 plt.legend()
-
-# Show plot
 plt.show()
         </code></pre>
     </div>
