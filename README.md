@@ -1,27 +1,29 @@
 #i will complete this.
 #save the python code and organise this repo.
-<html>
-<div style="display:flex">
-    <div style="flex:1">
-        <p>import matplotlib.pyplot as plt</p>
-        <p># Data for line graph</p>
-        <p>countries = ['United States', 'United Kingdom', 'Canada', 'Australia', 'Japan']</p>
-        <p>industry_worth = [72, 2, 7, 1.8, 4.5]</p>
-        <p>percent_women = [62, 50, 69, 75, 27.4]</p>
-        <p># Plotting the line graph</p>
-        <p>plt.plot(countries, industry_worth, label='Industry Worth ($ billions)')</p>
-        <p>plt.plot(countries, percent_women, label='% of Women Feeling Insecure')</p>
-        <p>plt.xlabel('Country')</p>
-        <p>plt.ylabel('Amount')</p>
-        <p>plt.title('Purchasing Power of Products Exploiting Women Insecurities')</p>
-        <p>plt.legend()</p>
-        <p>plt.show()</p>
-    </div>
-    <div style="flex:1">
-        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png" alt="Cosmetic Procedures Trend">
-    </div>
+<div>
+    <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png" alt="Cosmetic Procedures Trend" width="400"/>
+    <p>
+
+    ```python
+    import matplotlib.pyplot as plt
+
+    # Data for line graph
+    countries = ['United States', 'United Kingdom', 'Canada', 'Australia', 'Japan']
+    industry_worth = [72, 2, 7, 1.8, 4.5]
+    percent_women = [62, 50, 69, 75, 27.4]
+
+    # Plotting the line graph
+    plt.plot(countries, industry_worth, label='Industry Worth ($ billions)')
+    plt.plot(countries, percent_women, label='% of Women Feeling Insecure')
+    plt.xlabel('Country')
+    plt.ylabel('Amount')
+    plt.title('Purchasing Power of Products Exploiting Women Insecurities')
+    plt.legend()
+    plt.show()
+    ```
+    </p>
 </div>
-</html>
+
 
 ![Cosmetic Procedures Trend](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png)
 ![Increase in Risk Associated with Douching](https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png)
