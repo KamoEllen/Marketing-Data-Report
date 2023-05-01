@@ -120,6 +120,12 @@ plt.show()
 #five-3
 <div style="display: flex;">
     <div style="flex-basis: 80%;">
+        <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/health_risk.png" alt="Increase in Risk Associated with Douching" width="400"/>
+    </div>
+    
+    #five-3
+    <div style="display: flex;">
+    <div style="flex-basis: 80%;">
         <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png" alt="Increase in Risk Associated with Douching" width="400"/>
     </div>
 #Six
