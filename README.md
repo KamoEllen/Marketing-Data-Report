@@ -93,7 +93,7 @@ plt.show()
 
 #five
 <div style="display: flex;">
-    <div style="flex-basis: 80%;">
+    <div style="flex-basis: 50%;">
         <img src="https://github.com/KamoEllen/Marketing-Data-Report/blob/main/health_risk.png" alt="Health Risk" width="400">
     </div>
     <div style="flex-basis: 50%;">
