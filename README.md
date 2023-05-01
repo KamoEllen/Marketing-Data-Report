@@ -33,13 +33,9 @@ plt.show()
     <div style="flex-basis: 50%;">
         <pre><code>
 import matplotlib.pyplot as plt
-
-# Data for line graph
 countries = ['United States', 'United Kingdom', 'Canada', 'Australia', 'Japan']
 industry_worth = [72, 2, 7, 1.8, 4.5]
 percent_women = [62, 50, 69, 75, 27.4]
-
-# Plotting the line graph
 plt.plot(countries, industry_worth, label='Industry Worth ($ billions)')
 plt.plot(countries, percent_women, label='% of Women Feeling Insecure')
 plt.xlabel('Country')
