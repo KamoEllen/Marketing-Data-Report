@@ -210,7 +210,7 @@ Approximately 7 in 10 women and girls report a decline in body confidence and in
 
 <hr>
 
-References:
+Sources:
 
 Dove Global Beauty and Confidence Report
 The American Society of Plastic Surgeons (ASPS) 2020 Annual Plastic Surgery Statistics Report
