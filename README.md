@@ -1,15 +1,25 @@
 Topic: How Companies Exploit Women's Insecurities for Profit
 <hr>
 Contents:
+
 Cleaning Data
+
 Introduction
+
 Hypothesis
+
 How Advertisements Prey on Women's Insecurities
+
 Exploiting Women's Insecurities to Sell Douche Products
+
 Impact on Women's Body Image and Self-Esteem
+
 Alternative Marketing Strategies
+
 Conclusion
+
 Data Visualization
+
 Sources
 <hr>
 Cleaning Data:
