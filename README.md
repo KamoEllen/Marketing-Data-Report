@@ -3,10 +3,10 @@
 
 #one
 <div style="display: flex;">
-    <div style="flex-basis: 50%;">
+    <div style="flex-basis: 80%;">
         <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Increase%20in%20Risk%20Associated%20with%20Douching.png" alt="Increase in Risk Associated with Douching" width="400"/>
     </div>
-    <div style="flex-basis: 70%;">
+    <div style="flex-basis: 30%;">
         <pre><code>
 import matplotlib.pyplot as plt
 import numpy as np
