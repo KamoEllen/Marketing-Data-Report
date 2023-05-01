@@ -103,7 +103,7 @@ plt.show()
 </div>
 
 <hr>
-#two
+Douching is associated with several negative health effects, as indicated by the percentage increase in risk associated with each health effect. The U.S. Department of Health & Human Services and a study published in the National Library of Medicine both provide information on the risks associated with douching. A bar chart is used to clearly display the risks and percentages for each health effect, emphasizing the importance of avoiding douching for good reproductive and overall health.
 <div style="display: flex;">
     <div style="flex-basis: 50%;">
         <img src="https://raw.githubusercontent.com/KamoEllen/Marketing-Data-Report/main/Cosmetic_Procedures_trend.png" alt="Cosmetic Procedures Trend" width="400"/>
