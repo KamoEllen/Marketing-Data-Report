@@ -1,6 +1,3 @@
-#i will complete this.
-#save the python code and organise this repo.
-
 Topic: How Companies Exploit Women's Insecurities for Profit
 
 Contents:
@@ -22,7 +19,7 @@ I broadened my search for data sources and utilized various online sources to co
 Introduction: 
 Industries such as beauty, fashion, weight loss, cosmetic surgery, and fitness use women's insecurities to sell products and make profits by setting unrealistic beauty standards and promoting the idea that women need to conform to societal norms. They perpetuate the notion that there is an ideal body image that women should strive for, which leads to exploiting women's insecurities and profiting from them.As a result, women are often left feeling dissatisfied and continue to strive for unattainable beauty standards, perpetuating a cycle of insecurity and profit for these industries.
 
-Hypothesis
+Hypothesis:
 1.How Advertisements Prey on Women's Insecurities
 2.Exploiting Women's Insecurities to Sell Douche Products
 3.Impact on Women's Body Image and Self-Esteem
@@ -30,9 +27,7 @@ Hypothesis
 
 Hypothesis and Analysis:
 
-
-How Advertisements Prey on Women's Insecurities
-
+How Advertisements Prey on Women's Insecurities:
 Advertisements for beauty products, fashion, weight loss, cosmetic surgery, and fitness often use language and images that suggest women need to improve their appearance to be accepted by society or feel confident in themselves.
 Language that reinforces insecurities around appearance includes terms like "flawless," "perfect," "ideal," and "thin."
 Images often feature unrealistic beauty standards, idealized body types, and airbrushed or photoshopped models.
@@ -40,22 +35,18 @@ These industries prey on women's insecurities about their appearance to sell pro
 Advertisements and marketing tactics suggest that women need to change their appearance to fit societal standards of beauty and gain acceptance and confidence.
 Some tactics include using shame and guilt to make women feel bad about their appearance and creating a sense of urgency to buy products that promise to fix perceived flaws.
 
-Exploiting Women's Insecurities to Sell Douche Products
-
+Exploiting Women's Insecurities to Sell Douche Products:
 Companies often use marketing tactics that suggest women need to change their bodies to fit societal beauty standards and feel more confident.
 This creates a sense of urgency to buy products that promise to fix perceived flaws, such as douches that claim to make women feel cleaner or more attractive.
 Advertisements may also use shame or guilt to make women feel bad about their bodies and suggest that using their product is the solution.
 
-Impact on Women's Body Image and Self-Esteem
-
+Impact on Women's Body Image and Self-Esteem:
 These industries often promote unrealistic and unhealthy beauty standards that can lead to negative body image and low self-esteem.
 The cosmetic surgery industry is particularly adept at preying on women's insecurities. According to recent statistics, 95% of all cosmetic procedures are performed on women. They offer procedures that promise to fix perceived flaws and create a sense of perfection, which can be addictive. Women may feel better after the procedure but often return again and again, trying to achieve an unattainable standard.
-
-
 The pressure to conform to societal beauty standards can lead to body dissatisfaction, disordered eating, and other mental health issues.
 These industries can also perpetuate harmful stereotypes and contribute to discrimination based on appearance.
 
-Alternative Marketing Strategies
+Alternative Marketing Strategies:
 Alternative marketing strategies could focus on promoting diversity and inclusivity in advertising, embracing body positivity and self-acceptance, and celebrating individuality and uniqueness.
 Brands could also promote the health benefits of their products rather than solely focusing on appearance-related benefits.
 Using real people with diverse body types and appearances in advertisements could also promote positive body image and self-esteem.
