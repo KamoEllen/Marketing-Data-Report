@@ -111,6 +111,7 @@ plt.show()
 </div>
 
 
+
 #Six
 <div style="display: flex;">
     <div style="flex-basis: 50%;">
